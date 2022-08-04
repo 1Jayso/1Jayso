@@ -10,7 +10,7 @@
 I am an avid learner who is always looking for ways to grow and to better serve the world. I am passionate about using programming to solve complex problems. I work as a DevOps Engineer but I love programming. I am looking to help make this world a better palce with one commit at time.
 
 
-<img align="right" alt="GIF" src="https://github.com/1Jayso/1Jayso/blob/main/assets/pet/jpg?raw=true" width="408" height="300" />
+<img align="right" alt="GIF" src="https://github.com/1Jayso/1Jayso/blob/main/assets/pet.jpg?raw=true" width="408" height="300" />
   
 
 **Talking about Personal Stuffs:**
