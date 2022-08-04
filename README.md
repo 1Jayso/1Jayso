@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=1Jayso.1Jayso)
 
-I am an avid learner who is always looking for ways to grow and to better serve the world. I am passionate about using programming to solve complex problems. I work as a DevOps Engineer but I love programming. I am looking to help make this world a better palce with one commit at time.
+I am an avid learner who is always looking for ways to grow and to better serve the world. I am passionate about using programming to solve complex problems. I work as a DevOps Engineer and I love programming. I am looking to help make this world a better palce with one commit at time.
   
 
 **Talking about Personal Stuffs:**
@@ -18,8 +18,10 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 - 💬 Ask me about Docker Containers
 - 📫 How to reach me: sowah.joseph@outlook.com
 - ⚡ Fun fact: I love listening to classical music
-
 </br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
