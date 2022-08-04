@@ -8,16 +8,13 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=1Jayso.1Jayso)
 
 I am an avid learner who is always looking for ways to grow and to better serve the world. I am passionate about using programming to solve complex problems. I work as a DevOps Engineer but I love programming. I am looking to help make this world a better palce with one commit at time.
-
-
-<img align="right" alt="GIF" src="https://github.com/1Jayso/1Jayso/blob/main/assets/pet.jpg?raw=true" width="408" height="300" />
   
 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as DevOps Engineer 
 - 🌱 My areas of interests are web, backend, DevOps, and Machine Learning
-- 👯 I’m looking to collaborate on ... Opensource Project
+- 👯 I’m looking to collaborate on Opensource Projects
 - 💬 Ask me about Docker Containers
 - 📫 How to reach me: sowah.joseph@outlook.com
 - ⚡ Fun fact: I love listening to classical music
@@ -37,8 +34,7 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Jayso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jayso)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Jayso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 
