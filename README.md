@@ -13,7 +13,7 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as DevOps Engineer 
-- 🌱 My areas of interests are web, backend, DevOps, and Machine Learning
+- 🌱 My areas of interests are backend, DevOps, and Machine Learning
 - 👯 I’m looking to collaborate on Opensource Projects
 - 💬 Ask me about Docker Containers
 - 📫 How to reach me: sowah.joseph@outlook.com
