@@ -21,21 +21,6 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 </br>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Jayso&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
 
 
 
