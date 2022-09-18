@@ -21,7 +21,7 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 </br>
 
 <!--START_SECTION:waka-->
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jayso&show_icons=true&theme=radical)
+<!-- ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=1Jayso&show_icons=true&theme=radical) -->
 <!--END_SECTION:waka-->
 
 
