@@ -20,7 +20,8 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 - ⚡ Fun fact: I love listening to classical music
 </br>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
