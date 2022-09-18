@@ -14,8 +14,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.dev/api
-          SHOW_PROJECTS: "False"
+          API_BASE_URL: https://wakatime.com/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           REPOSITORY: 1Jayso
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
