@@ -17,7 +17,7 @@ jobs:
 #           API_BASE_URL: https://api.wakatime.com/api/v1
 #           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          REPOSITORY: 1Jayso
+#           REPOSITORY: 1Jayso
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
